@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kedar261
 - 👀 I’m interested in Python, Data Science & Machine Learning
 - 🌱 I’m currently working on Numpy & Pandas
-- 💞️ I’m looking to collaborate on Medical related projects with Machine Learning
+- 💞️ I’m looking to collaborate on Machine Learning, Deep Learning & NLP
 - 📫 How to reach me kulkarnikedar261@gmail.com
 
 <!---
